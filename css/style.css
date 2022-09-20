@@ -1,0 +1,36 @@
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+#header{
+
+    height: 10vh;
+}
+
+#main{
+    height: 100vh;
+
+}
+
+#footer{
+    height: 10vh;
+
+
+}
+
+.logo {
+    width: 80px;
+    height: 80px;
+    margin: 2px;
+    border-radius: 50px;
+    background-image: url("../assets/images/logo.jpg");
+    background-size: cover;
+
+}
+.imagenes{
+    width: 80%;
+    align-content: center;
+    justify-content: center;
+    background-size: contain;
+}
